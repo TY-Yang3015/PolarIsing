@@ -8,6 +8,18 @@ Welcome to the release Repo of Project PolarIsing. The stable release `1.0.0` is
 
 ---
 
+Credits:
+
+**Framework Design**: Tianyue Yang, Singh Tonmoi
+**Metropolis**: Tianyue Yang, Singh Tonmoi, Matthew Holwarth
+**Wolff**: Tianyue Yang, Uma Trivedi 
+**Simulated Annealing**: Matthew Holwarth, Tianyue Yang
+**Neural Network**: Tianyue Yang
+
+(Names are ordered by contribution)
+
+---
+
 **A image from our cGAN**:
 
 <img src="https://github.com/TeamIcing/Demo_Release/assets/107746785/e8ab6dc2-8b2e-4cec-8d91-f518756ff431" alt="242946150-05b4500f-2a4e-4185-9cc0-faa47d6e957e" width="600"/>
